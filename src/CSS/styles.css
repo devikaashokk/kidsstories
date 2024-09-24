@@ -1,0 +1,8 @@
+.title{
+    color:green;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.img{
+    border: 2px solid rgb(94, 43, 141);
+}
